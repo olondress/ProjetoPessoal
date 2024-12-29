@@ -1,0 +1,11 @@
+html, body {
+  height: 100%; /* Garante que a página ocupe toda a altura */
+  margin: 0;    /* Remove a margem padrão */
+  padding: 0;   /* Remove o padding padrão */
+}
+body {
+  overflow: auto; /* Permite rolagem se o conteúdo exceder a altura da página */
+}
+header {
+  position: relative; /* Ou, se necessário, use 'absolute' */
+}

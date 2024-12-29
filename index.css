@@ -1,0 +1,673 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #111111; /* Fundo preto */
+  overflow-x: hidden;
+}
+.header {
+  width: 19905px;
+    ;
+}
+
+/* Página 1 */
+.image-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 230.1px;
+  height: 70px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 21.99px;
+  left: 1206.28px;
+  display: inline-block;
+  width: 51.3px;
+  height: 16px;
+}
+.sobre {
+  position: absolute;
+  top: 21.99px;
+  left: 1293.3px;
+  display: inline-block;
+  width: 57.2px;
+  height: 16px;
+}
+.servios {
+  position: absolute;
+  top: 21.99px;
+  left: 1386.27px;
+  display: inline-block;
+  width: 82.2px;
+  height: 16px;
+}
+.provedores {
+  position: absolute;
+  top: 21.99px;
+  left: 1504.28px;
+  display: inline-block;
+  width: 115.6px;
+  height: 16px;
+}
+.contatos {
+  position: absolute;
+  top: 21.99px;
+  left: 1655.66px;
+  display: inline-block;
+  width: 90.6px;
+  height: 16px;
+}
+.cabealho {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1746.2px;
+  height: 70px;
+}
+.nextcloud {
+  margin: 0;
+}
+.a-soluo-para {
+  margin: 0;
+  color: #fff;
+}
+.nextcloud-a-soluo-container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: inline-block;
+  width: 970px;
+}
+.nextcloud-logosvg-1-icon {
+  position: absolute;
+  top: 189px;
+  left: 259px;
+  width: 452px;
+  height: 318px;
+  object-fit: cover;
+}
+.contedo {
+  position: absolute;
+  top: 276px;
+  left: 388px;
+  width: 970px;
+  height: 507px;
+  text-align: center;
+  font-size: 48px;
+  color: #95b842;
+  font-family: "Roboto Slab";
+}
+.vector-icon {
+  position: absolute;
+  height: 4.08%;
+  top: 95.92%;
+  bottom: 0%;
+  left: calc(50% - 9.1px);
+  max-height: 100%;
+  width: 19px;
+}
+.parte-1 {
+  position: absolute;
+  top: 14px;
+  left: 87px;
+  width: 1746.2px;
+  height: 986.2px;
+  font-size: 13px;
+  font-family: Montserrat;
+}
+
+/* Página 2 */
+.o-desafio-da {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  align-items: center;
+  width: 808px;
+}
+.cartrios-e-rgos {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.cartrios-e-rgos-container1 {
+  width: 100%;
+}
+.cartrios-e-rgos-container {
+  position: absolute;
+  top: 116px;
+  left: 0px;
+  font-size: 16px;
+  display: flex;
+  color: #fff;
+  align-items: center;
+  width: 808px;
+}
+.processo-digitalizacao-1-icon {
+  position: absolute;
+  top: 54px;
+  left: 864px;
+  width: 601px;
+  height: 556px;
+  object-fit: cover;
+}
+.modernize-cartrios-e {
+  position: absolute;
+  top: 415px;
+  left: 0px;
+  display: inline-block;
+  width: 660px;
+}
+.a-digitalizao-de-container {
+  position: absolute;
+  top: 517px;
+  left: 0px;
+  font-size: 16px;
+  display: inline-block;
+  color: #fff;
+  width: 768px;
+}
+.contedo1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1465px;
+  height: 685px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 5.13%;
+  top: 94.87%;
+  bottom: 0%;
+  left: calc(50% - 9.5px);
+  max-height: 100%;
+  width: 19px;
+}
+.parte-2 {
+  position: absolute;
+  top: 1277px;
+  left: 227px;
+  width: 1465px;
+  height: 783.2px;
+  font-size: 34px;
+  color: #95b842;
+}
+
+/* Página 3 */
+.nextcloud-segurana-conformi {
+  position: absolute;
+  top: 0px;
+  left: 236px;
+  font-size: 32px;
+  display: flex;
+  color: #95b842;
+  align-items: center;
+  justify-content: center;
+  width: 832px;
+}
+.opo-4-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 635px;
+  height: 210px;
+}
+.auditoria-e-rastreamento {
+  position: absolute;
+  top: 25px;
+  left: 123px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 387px;
+  height: 71px;
+}
+.oferece-registro-completo {
+  position: absolute;
+  top: 113px;
+  left: 29px;
+  font-size: 16px;
+  display: flex;
+  color: #95b842;
+  align-items: center;
+  justify-content: center;
+  width: 575px;
+}
+.opo-4 {
+  position: absolute;
+  top: 336px;
+  left: 670px;
+  width: 635px;
+  height: 210px;
+}
+.organizao-de-documentos {
+  position: absolute;
+  top: 25px;
+  left: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 424px;
+  height: 71px;
+}
+.opo-3 {
+  position: absolute;
+  top: 99px;
+  left: 670px;
+  width: 635px;
+  height: 210px;
+}
+.compartilhamento-seguro-de {
+  position: absolute;
+  top: 22px;
+  left: 93px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 448px;
+  height: 71px;
+}
+.opo-2 {
+  position: absolute;
+  top: 340px;
+  left: 0px;
+  width: 635px;
+  height: 210px;
+}
+.opo-1 {
+  position: absolute;
+  top: 99px;
+  left: 0px;
+  width: 635px;
+  height: 210px;
+}
+.nextcloud-segurana-conformi-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1305px;
+  height: 550px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 5.04%;
+  top: 94.96%;
+  bottom: 0%;
+  left: calc(50% - 9.5px);
+  max-height: 100%;
+  width: 19px;
+}
+.parte-3 {
+  position: absolute;
+  top: 2342px;
+  left: 307px;
+  width: 1305px;
+  height: 798.2px;
+  text-align: center;
+  color: #243502;
+}
+
+/* Página 4 */
+.image-2-icon {
+  position: absolute;
+  height: 54.78%;
+  width: 25.74%;
+  top: 0%;
+  right: 67.1%;
+  bottom: 45.22%;
+  left: 7.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.implementao-rpida-e {
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  text-align: center;
+}
+.o-nextcloud-permite-container {
+  position: absolute;
+  top: 42px;
+  left: 1px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 834px;
+}
+.sincronizao-e-acesso {
+  position: absolute;
+  top: 202px;
+  left: 1px;
+  display: flex;
+  align-items: center;
+  width: 682px;
+}
+.com-o-nextcloud {
+  position: absolute;
+  top: 286px;
+  left: 0px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 833px;
+}
+.benefcios-para-a {
+  position: absolute;
+  top: 422px;
+  left: 1px;
+  text-align: center;
+}
+.a-gesto-de {
+  position: absolute;
+  top: 464px;
+  left: 2px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 834px;
+}
+.textos {
+  position: absolute;
+  top: 0px;
+  left: 756px;
+  width: 842px;
+  height: 560px;
+}
+.descubra-nossas-solues {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-weight: 800;
+}
+.rectangle-2-verde {
+  position: absolute;
+  height: 47.41%;
+  width: 46.18%;
+  top: 52.53%;
+  right: 26.82%;
+  bottom: 0.06%;
+  left: 27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fale-com-um {
+  position: absolute;
+  top: 62.05%;
+  left: 30.99%;
+  font-size: 18px;
+  font-weight: 500;
+  color: #111;
+  text-align: center;
+}
+.entre-em-contato {
+  position: absolute;
+  height: 13.65%;
+  width: 39.99%;
+  top: 64.15%;
+  right: 60.01%;
+  bottom: 22.2%;
+  left: 0%;
+  font-size: 26px;
+  color: #fff;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 5.58%;
+  top: 94.42%;
+  bottom: 0%;
+  left: calc(50% - 9px);
+  max-height: 100%;
+  width: 19px;
+}
+.parte-4 {
+  position: absolute;
+  height: 13.34%;
+  width: 83.23%;
+  top: 64.84%;
+  right: 8.8%;
+  bottom: 21.82%;
+  left: 7.97%;
+  color: #95b842;
+}
+
+/* Página 5 */
+.background-child {
+  position: absolute;
+  top: 0px;
+  left: 286px;
+  border-radius: 15px;
+  background-color: #95b842;
+  width: 848px;
+  height: 535px;
+}
+.background-item {
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  backdrop-filter: blur(4px);
+  border-radius: 15px;
+  background-color: #1e1e1e;
+  width: 356px;
+  height: 495px;
+}
+.background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1134px;
+  height: 535px;
+}
+.nome-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 15px;
+  background-color: #fff;
+  width: 586.1px;
+  height: 38.4px;
+}
+.insira-seu-nome {
+  position: absolute;
+  top: 9.1px;
+  left: 20.91px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 178.9px;
+  height: 20px;
+}
+.nome {
+  position: absolute;
+  top: 175.89px;
+  left: 452px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 586.1px;
+  height: 38.4px;
+  color: #111;
+}
+.insira-seu-email {
+  position: absolute;
+  top: 9.55px;
+  left: 20.91px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 190.6px;
+  height: 20px;
+}
+.email {
+  position: absolute;
+  top: 226.72px;
+  left: 452px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 586.1px;
+  height: 38.4px;
+  color: #111;
+}
+.mensagem-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 15px;
+  background-color: #fff;
+  width: 586.1px;
+  height: 103.6px;
+}
+.insira-seu-email1 {
+  position: absolute;
+  top: 10px;
+  left: 20.91px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 165.3px;
+  height: 19.2px;
+}
+.mensagem {
+  position: absolute;
+  top: 277.54px;
+  left: 452px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 586.1px;
+  height: 103.6px;
+  color: #111;
+}
+.download-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 66px;
+  width: 68.9px;
+  height: 48px;
+  object-fit: contain;
+}
+.email1 {
+  position: absolute;
+  top: 48px;
+  left: 73px;
+}
+.suportewebvirtuacom {
+  position: absolute;
+  top: 75px;
+  left: 0px;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 24px;
+}
+.mail {
+  position: absolute;
+  top: 319px;
+  left: 78px;
+  width: 200px;
+  height: 99px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.tl-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 134px;
+  width: 48px;
+  height: 70px;
+  object-fit: cover;
+}
+.av-dom-luis {
+  position: absolute;
+  top: 98px;
+  left: 0px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 315px;
+  height: 47px;
+}
+.localizao {
+  position: absolute;
+  top: 70px;
+  left: 91px;
+  font-size: 18px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 133px;
+  height: 28px;
+}
+.loc {
+  position: absolute;
+  top: 117px;
+  left: 20px;
+  width: 315px;
+  height: 145px;
+  cursor: pointer;
+  text-align: center;
+}
+.entre-em-contato1 {
+  position: absolute;
+  top: 95px;
+  left: 496.94px;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  width: 496px;
+  height: 52px;
+}
+.botao-enviar-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background-color: #243502;
+  width: 128px;
+  height: 45px;
+}
+.enviar {
+  position: absolute;
+  top: 8px;
+  left: 29px;
+  display: flex;
+  align-items: center;
+  width: 69px;
+}
+.botao-enviar {
+  position: absolute;
+  top: 396px;
+  left: 680.94px;
+  width: 128px;
+  height: 45px;
+  font-size: 20px;
+}
+.parte-5 {
+  position: absolute;
+  top: 4590px;
+  left: 393px;
+  width: 1134px;
+  height: 535px;
+  font-size: 16px;
+}
+.parte-1-parent {
+  width: 100%;
+  position: relative;
+  background-color: #111;
+  height: 5398px;
+  text-align: left;
+  font-size: 28px;
+  color: #fff;
+  font-family: Poppins;
+}
